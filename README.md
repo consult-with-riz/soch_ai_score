@@ -2,7 +2,7 @@
 
 A lightweight, self-contained ops readiness assessment tool for early-stage B2B startups. Built by [Soch](https://withsoch.com) — Operations-as-a-Service for pre-seed through Series A teams.
 
-Live at: **[withsoch.com/score](https://withsoch.com/score)**
+For now, you can check it [here](https://consult-with-riz.github.io/soch_ai_score/) but eventually it will be live at **[withsoch.com/score](https://withsoch.com/score)**
 
 ---
 
